@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    background-color: bisque;
+}
+
+.btn-lg{
+    width: 24.4%;
+    height: auto;
+    padding: 14px;
+}
+.btn-primary{
+    width: 24.4%;
+    height: auto;
+    padding: 14px;  
+}
+@media only screen and (max-width:553px){
+
+    .btn-light
+    {
+        width: 23.5%;
+        height: auto;
+        padding: 14px;
+    }
+    .btn-primary
+    {
+        width: 23.5%;
+        height: auto;
+        padding: 14px;
+    }
+}
+@media only screen and (max-width:768px){
+    .btn-light
+    {
+        width: 23.5%;
+        height: auto;
+        padding: 14px;
+    }
+    .btn-primary
+    {
+        width: 23.5%;
+        height: auto;
+        padding: 14px;
+    }
+}
